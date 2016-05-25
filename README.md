@@ -1,6 +1,6 @@
 Tap Chat
 =================
-####Secure Messaging for Windows Phone 8.1
+####Secure Messaging for Windows Phone 8.1 (or newer)
 
 **Created by:**  
 Feraas Khatib  
